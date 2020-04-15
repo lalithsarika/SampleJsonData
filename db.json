@@ -1,8 +1,8 @@
 {
     "posts": [
-      { "id": 1, "name": "Onion", "Desc": "Onion Desc", "location": "https://goo.gl/maps/5WJVujWhdRwdMaCe6" },
-      { "id": 2, "name": "Milk", "Desc": "Milk Desc", "location": "https://goo.gl/maps/5WJVujWhdRwdMaCe6" },
-      { "id": 3, "name": "Cereal", "Desc": "Cereal Desc", "location": "https://goo.gl/maps/5WJVujWhdRwdMaCe6" },
+      { "id": 1, "name": "Onion", "Desc": "Onion Desc", "location": "Address" },
+      { "id": 2, "name": "Milk", "Desc": "Milk Desc", "location": "Address 1" },
+      { "id": 3, "name": "Cereal", "Desc": "Cereal Desc", "location": "Address 3" },
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
